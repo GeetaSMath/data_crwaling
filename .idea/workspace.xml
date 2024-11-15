@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a751f921-6304-42d6-b1d5-50b1b9a42231" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/crwaling_data.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flipkart_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flipkart_data_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_test_sitedata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipl_match_tabledata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pracice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases_data_crwal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +42,7 @@
     "Python.sample_demo.executor": "Run",
     "Python.testcases_data_crwal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "data__scraping",
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
