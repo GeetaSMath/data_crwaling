@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a751f921-6304-42d6-b1d5-50b1b9a42231" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/wikipedia/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xpath_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amazoninfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/amazoninfo.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/product_data.json" afterDir="false" />
-    </list>
+    <list default="true" id="a751f921-6304-42d6-b1d5-50b1b9a42231" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
