@@ -42,8 +42,8 @@ else:
     def get_data(soup):
         data_info = {
             "name": extareced_data(soup.find_all("h1", class_="copy-clipboard h3-styling-article")),
-            "text":extareced_data(soup.find_all("div",class_="article-body copy-clipboard")),
-            "title":extareced_data(soup.find("a", {"href": "/newsroom"}))
+            "text": extareced_data(soup.find_all("div",class_="article-body copy-clipboard")),
+            "title": extareced_data(soup.find("a", {"href": "/newsroom"}))
         }
 
         return data_info

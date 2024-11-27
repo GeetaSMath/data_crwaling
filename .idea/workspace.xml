@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a751f921-6304-42d6-b1d5-50b1b9a42231" name="Changes" comment="" />
+    <list default="true" id="a751f921-6304-42d6-b1d5-50b1b9a42231" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/datasampl_soup/soupdata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasampl_soup/soupdata2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pfizerdata.py" beforeDir="false" afterPath="$PROJECT_DIR$/pfizerdata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/product_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia/data_crwal.py" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia/data_crwal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xpath_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/xpath_practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xpathdata.json" beforeDir="false" afterPath="$PROJECT_DIR$/xpathdata.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +52,8 @@
     "Python.pfizerdata.executor": "Run",
     "Python.pracice.executor": "Run",
     "Python.sample_demo.executor": "Run",
+    "Python.soupdata.executor": "Run",
+    "Python.soupdata2.executor": "Run",
     "Python.testcases_data_crwal.executor": "Run",
     "Python.xpath_practice.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -48,30 +61,8 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.get_test_sitedata">
-    <configuration name="amazone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="crwaling_data" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazone.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.xpath_practice">
+    <configuration name="data_crwal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="crwaling_data" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wikipedia/data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wikipedia/data_crwal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_test_sitedata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="flipkart_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="crwaling_data" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_test_sitedata.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flipkart_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pfizerdata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="soupdata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="crwaling_data" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,11 +115,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datasampl_soup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pfizerdata.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datasampl_soup/soupdata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="soupdata2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crwaling_data" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datasampl_soup" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datasampl_soup/soupdata2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.get_test_sitedata" />
         <item itemvalue="Python.xpath_practice" />
-        <item itemvalue="Python.data" />
-        <item itemvalue="Python.amazone" />
-        <item itemvalue="Python.pfizerdata" />
+        <item itemvalue="Python.data_crwal" />
+        <item itemvalue="Python.soupdata2" />
+        <item itemvalue="Python.soupdata" />
+        <item itemvalue="Python.flipkart_data" />
       </list>
     </recent_temporary>
   </component>
@@ -186,5 +199,16 @@
       <updated>1731570084720</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sample_demo.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

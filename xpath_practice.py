@@ -1,24 +1,26 @@
-# import json
-#
-# from bs4 import BeautifulSoup
-# import requests
-# from lxml import etree
-#
-# # Fetch content (use your own URL here)
+import json
+
+from bs4 import BeautifulSoup
+import requests
+from lxml import etree
+
+# Fetch content (use your own URL here)
 # url="https://www.hyrtutorials.com/p/add-padding-to-containers.html"
-#
-#
-# response = requests.get(url)
-# html_content = response.text
-#
-# # Parse HTML content with BeautifulSoup
-# soup = BeautifulSoup(html_content, "html.parser")
-#
-# # Use XPath to get the desired text
-# tree = etree.HTML(str(soup))  # Convert BeautifulSoup object to lxml object for XPath
-#
-# text = tree.xpath('//div[@class="container"]//h1/text()')
+url="https://www.fda.gov/drugs/development-approval-process-drugs/drug-approvals-and-databases"
+
+
+response = requests.get(url)
+html_content = response.text
+
+# Parse HTML content with BeautifulSoup
+soup = BeautifulSoup(html_content, "html.parser")
+
+# Use XPath to get the desired text
+tree = etree.HTML(str(soup))  # Convert BeautifulSoup object to lxml object for XPath
+
+text = tree.xpath('//h1[@class="content-title text-center"]//text()')
 # text_box=tree.xpath('//div[@class="container"]/label//text()')
+print(text)
 #
 #
 # # Print the extracted text
