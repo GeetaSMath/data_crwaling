@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a751f921-6304-42d6-b1d5-50b1b9a42231" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/datasampl_soup/soupdata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasampl_soup/soupdata2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pfizerdata.py" beforeDir="false" afterPath="$PROJECT_DIR$/pfizerdata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/product_data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia/data_crwal.py" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia/data_crwal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xpath_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/xpath_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xpathdata.json" beforeDir="false" afterPath="$PROJECT_DIR$/xpathdata.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,27 +31,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.amazone.executor": "Run",
-    "Python.data.executor": "Run",
-    "Python.data_crwal.executor": "Run",
-    "Python.flipkart_data.executor": "Run",
-    "Python.flipkart_data_demo.executor": "Run",
-    "Python.get_test_sitedata.executor": "Run",
-    "Python.ipl_match_tabledata.executor": "Run",
-    "Python.pfizerdata.executor": "Run",
-    "Python.pracice.executor": "Run",
-    "Python.sample_demo.executor": "Run",
-    "Python.soupdata.executor": "Run",
-    "Python.soupdata2.executor": "Run",
-    "Python.testcases_data_crwal.executor": "Run",
-    "Python.xpath_practice.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "data__scraping",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.amazone.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_crwal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.flipkart_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.flipkart_data_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.get_test_sitedata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ipl_match_tabledata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pfizerdata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pracice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sample_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soupdata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soupdata2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testcases_data_crwal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xpath_practice.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;data__scraping&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.xpath_practice">
     <configuration name="data_crwal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="crwaling_data" />
